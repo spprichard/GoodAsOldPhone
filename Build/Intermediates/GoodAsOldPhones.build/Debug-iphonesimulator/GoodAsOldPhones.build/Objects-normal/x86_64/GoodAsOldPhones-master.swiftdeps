@@ -1,0 +1,7 @@
+version: "Apple Swift version 3.0.1 (swiftlang-800.0.58.6 clang-800.0.42.1)"
+options: "bdee4912b05c7e3eac72688cdac48a9e"
+build_time: [533018073, 561255000]
+inputs:
+  "/Users/StevenPrichard/Developer/GoodAsOldPhones/GoodAsOldPhones/ProductViewController.swift": [533013778, 0]
+  "/Users/StevenPrichard/Developer/GoodAsOldPhones/GoodAsOldPhones/AppDelegate.swift": [533002868, 0]
+  "/Users/StevenPrichard/Developer/GoodAsOldPhones/GoodAsOldPhones/ContactViewController.swift": [533018073, 0]
