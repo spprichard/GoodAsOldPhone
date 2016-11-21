@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		794C1DF21DE340580044796D /* ProductsTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 794C1DF11DE340580044796D /* ProductsTableViewController.swift */; };
 		F3B8CEA81DE275740077DA11 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3B8CEA71DE275740077DA11 /* AppDelegate.swift */; };
 		F3B8CEAD1DE275740077DA11 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F3B8CEAB1DE275740077DA11 /* Main.storyboard */; };
 		F3B8CEAF1DE275740077DA11 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F3B8CEAE1DE275740077DA11 /* Assets.xcassets */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		794C1DF11DE340580044796D /* ProductsTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ProductsTableViewController.swift; sourceTree = "<group>"; };
 		F3B8CEA41DE275740077DA11 /* GoodAsOldPhones.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GoodAsOldPhones.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F3B8CEA71DE275740077DA11 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F3B8CEAC1DE275740077DA11 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				F3B8CEB31DE275740077DA11 /* Info.plist */,
 				F3B8CEBB1DE27D520077DA11 /* ProductViewController.swift */,
 				F3B8CEBD1DE2A1220077DA11 /* ContactViewController.swift */,
+				794C1DF11DE340580044796D /* ProductsTableViewController.swift */,
 			);
 			path = GoodAsOldPhones;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F3B8CEBC1DE27D520077DA11 /* ProductViewController.swift in Sources */,
+				794C1DF21DE340580044796D /* ProductsTableViewController.swift in Sources */,
 				F3B8CEA81DE275740077DA11 /* AppDelegate.swift in Sources */,
 				F3B8CEBE1DE2A1220077DA11 /* ContactViewController.swift in Sources */,
 			);
@@ -304,6 +308,7 @@
 				F3B8CEB81DE275740077DA11 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

@@ -9,14 +9,15 @@
 import UIKit
 
 class ProductViewController: UIViewController {
-    @IBOutlet weak var productNameLabel: UILabel!
     
+    @IBOutlet weak var productNameLabel: UILabel!
     @IBOutlet weak var productImageView: UIImageView!
+    var productName : String?
     
     override func viewDidLoad() {
         super.viewDidLoad()
 
-        productNameLabel.text = "1937 Desk Phone"
+        productNameLabel.text = productName
         productImageView.image = #imageLiteral(resourceName: "phone-fullscreen3")
     }
 
